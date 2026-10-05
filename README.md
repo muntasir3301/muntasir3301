@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-I am Muntasir Ahmed. I'm currently working at Upwork As a Fontend Engineer. Im currently building a cloud based [microservice] ERP solution for the global market. I've completed my undergrad on **Computer Science & Engineering** at _[ZHSUST](https://zhsust.edu.bd/)_. Besides tech I'm also fairly invested in movies & animes, reading, and travelling.
+I am Muntasir Ahmed. I'm currently working as a Fontend Engineer. Im currently building a cloud based [microservice] ERP solution for the global market. I've completed my undergrad on **Computer Science & Engineering** at _[ZHSUST](https://zhsust.edu.bd/)_. Besides tech I'm also fairly invested in movies & animes, reading, and travelling.
 > 💡 *I'm open to new opportunities in the domain of backend engineering, systems, micro-services*
 
 
